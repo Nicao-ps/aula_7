@@ -14,14 +14,14 @@ print("Título com moldura")
 printline()
 
 
-def sum(x, y):
+def sum_x(x, y):
     s = x + y
     return s
 
     print(s)
 
 
-s = sum(4, 5)
+s = sum_x(4, 5)
 print(f'O valor da variável sum é {s}')
 
 
